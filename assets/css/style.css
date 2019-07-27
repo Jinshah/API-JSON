@@ -1,0 +1,22 @@
+body {
+  background: url("../images/bg.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.container {
+  background: rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+h1 {
+  color: #fff;
+}
+.img-fluid {
+  width: 200px;
+  height: 200px;
+}
+.food-view {
+  text-align: center;
+}
+#add-food {
+  margin: 10px;
+}
